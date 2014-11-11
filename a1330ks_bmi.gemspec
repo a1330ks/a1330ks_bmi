@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = A1330ksBmi::VERSION
   spec.authors       = ["Kei SAKAMOTO"]
   spec.email         = ["a1330ks@aiit.ac.jp"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Calculating BMI.}
+  spec.description   = %q{Calculating BMI from argument. And a index judged using a calculation result.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
