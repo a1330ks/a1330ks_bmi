@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Kei SAKAMOTO"]
   spec.email         = ["a1330ks@aiit.ac.jp"]
   spec.summary       = %q{Calculating BMI.}
-  spec.description   = %q{Calculating BMI from argument. And a index judged using a calculation result.}
+  spec.description   = %q{Calculating BMI from input by keyboard. And a index judged using a calculation result.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
